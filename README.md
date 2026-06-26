@@ -41,7 +41,7 @@ SHA256-Hash-Generator/
 
 ```bash
 git clone https://github.com/HK690/SHA.git
-cd SHA256-Hash-Generator
+cd SHA
 ```
 
 ### 2. (Optional) Create a Virtual Environment
